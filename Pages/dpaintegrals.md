@@ -1,8 +1,8 @@
-#NERS521
+# NERS521
 
-##Calculating dpa Cheat Sheet
+## Calculating dpa Cheat Sheet
 
-###Displacement cross section integrals
+### Displacement cross section integrals
 
 For simple, hard sphere elastic interactions the maximum energy transfer, $\hat{T}$, is given as,
 
@@ -54,11 +54,13 @@ $$\therefore \sigma_{D}(E_{i})=\sigma_s(E_i) \left(\frac{E_c}{2E_d} \right)\left
 
 The Kinchin-Pease (K-P) model is a simplified estimate of the number of displaced atoms ($N_d$) per PKA[^2] by means of the simple set of proposed relationships:
 
-$$N_d = \begin{cases}
-  0 & \text{for }0< E<E_d\\\  
-  1 & \text{for }E_d<E<2E_d\\\\
-  \frac{E} {2E_d} &   \text{for }2E_d<E<E_c\\\\
-  \frac{E_c} {2E_d} & \text{for }E_c<E\\\
-\end{cases}$$
+$$
+\begin{alignat}{4}
+N_d & = 0 \text{ for } 0 > E > E_d \\
+ & = 1 \text{ for } 0 > E > E_d \\
+ & = \frac{E} {2E_d} \text{ for } 2E_d < E < E_c \\
+ & = \frac{E_c} {2E_d} \text{ for } E_c < E
+\end{alignat}
+$$
 
 Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. At energies above $E_c$, the recoils lose energy only by electron excitation, while below $E_c$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal structure effects) for either single interactions or more complex damage cascades.
