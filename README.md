@@ -1,7 +1,7 @@
 # NERS521 Radiation Materials Science: I
 ## Fall 2023
 
-**Last updated Aug. 21, 2023**
+**Last updated Aug. 25, 2023**
 
 *Click [here](#Schedule) to jump to the course schedule*
 
@@ -46,43 +46,43 @@ The course is divided into three main components based on the general events ass
 | Thursday |Aug. 31| 2 | [Basic particle interactions](https://github.com/nomelabs/NERS521/blob/main/Lectures/2_NERS521_Neutron-nuclear_interactions.pdf?raw=true)| | |[Alt. basic particle derivation](https://github.com/nomelabs/NERS521/blob/main/Resources/alt_derv_T.pdf?raw=true)|
 | Tuesday |Sept. 5| 3 | [Collision Kinematics](https://github.com/nomelabs/NERS521/blob/main/Lectures/3_NERS521_Collision_Kinematics.pdf?raw=true)| | |[Collision Derivation](https://github.com/nomelabs/NERS521/blob/main/Resources/collision-kinematics.pdf?raw=true) |
 | Thursday |Sept. 7| 4 |  [Interatomic Potentials \& Cross Sections](https://github.com/nomelabs/NERS521/blob/main/Lectures/4_NERS521_Potentials_n_Cross_Sections.pdf?raw=true)| | [PS#1](https://umich.instructure.com/courses/615157/assignments) | [Flux/Fluence/Cross-sections/energy transfer quick review](https://github.com/nomelabs/NERS521/blob/main/Resources/Koutski1994_T_sigma_and_phi_review.pdf?raw=true) |
-| Tuesday |Sept. 12| 5 |  [Simple Disp. Theory](https://github.com/nomelabs/NERS521/blob/main/Lectures/5_NERS521_Displacement_Theory.pdf?raw=true)| [Example](https://github.com/nomelabs/NERS521/blob/main/Pages/Example%20from%205_NERS521_Displacement_Theory-1.pdf?raw=true)  | |[Displacement Integrals](https://rawcdn.githack.com/nomelabs/NERS521/59c626c1ab9fdd84f9e25ad37836b83e719b4e11/Pages/dpaintegrals.html) / [Cross section conversions](https://rawcdn.githack.com/nomelabs/NERS521/937cd554b1050d487d8f0fbfa08650f4a065943e/Pages/CrossSectionCheatSheet.html) |
-| Thursday |Sept. 14|  | <span style="color:green">*No lecture - Prof. Field out of town*<span> | |  | |
-| Tuesday |Sept. 19| 6 | [Energy loss \& K-P modifications](https://github.com/nomelabs/NERS521/blob/main/Lectures/6_NERS521_ModifyingKPandEnergyLossv2.pdf?raw=true) | | <span style="color:red">PS1 due<span> | | 
-| Thursday |Sept. 21| 7 | [Focus, Channel, Range](https://github.com/nomelabs/NERS521/blob/main/Lectures/7_NERS521_Channel_Focus_Range.pdf?raw=true) | | | |
-| Tuesday |Sept. 26| 8 | [Damage Cascades](https://github.com/nomelabs/NERS521/blob/main/Lectures/8_NERS521_Damage_Cascades.pdf?raw=true)| | | [Arc-dpa Paper](https://github.com/nomelabs/NERS521/blob/main/Pages/arcdpa.pdf?raw=true) |
+| Tuesday |Sept. 12| 5 |  Guest Lecture [Simple Disp. Theory](https://github.com/nomelabs/NERS521/blob/main/Lectures/5_NERS521_Displacement_Theory.pdf?raw=true) - Charles Hirst| [Example](https://github.com/nomelabs/NERS521/blob/main/Pages/Example%20from%205_NERS521_Displacement_Theory-1.pdf?raw=true)  | |[Displacement Integrals](https://rawcdn.githack.com/nomelabs/NERS521/59c626c1ab9fdd84f9e25ad37836b83e719b4e11/Pages/dpaintegrals.html) / [Cross section conversions](https://rawcdn.githack.com/nomelabs/NERS521/937cd554b1050d487d8f0fbfa08650f4a065943e/Pages/CrossSectionCheatSheet.html) |
+| Thursday |Sept. 14| 6 | Guest Lecture [Energy loss \& K-P modifications](https://github.com/nomelabs/NERS521/blob/main/Lectures/6_NERS521_ModifyingKPandEnergyLossv2.pdf?raw=true) - Charlies Hirst| | <span style="color:red">PS1 due<span> | | 
+| Tuesday |Sept. 19| 7 | [Focus, Channel, Range](https://github.com/nomelabs/NERS521/blob/main/Lectures/7_NERS521_Channel_Focus_Range.pdf?raw=true) | | | |
+| Thursday |Sept. 21| 8 | [Damage Cascades](https://github.com/nomelabs/NERS521/blob/main/Lectures/8_NERS521_Damage_Cascades.pdf?raw=true)| | | [Arc-dpa Paper](https://github.com/nomelabs/NERS521/blob/main/Pages/arcdpa.pdf?raw=true) |
 
 #### Part II: Point Defect Generation, Recombination, and Mobility
 *Objective:* Apply knowledge from the radiation damage event to determine the point defect generation in material systems
 
 |Day|Date|Lec. #|Topic|Lecture Notes|Assignments|Other resources/details|
 |---|---|---|---|---|---|---|
-| Thursday |Sept. 28| 9 | [Point Defects](https://github.com/nomelabs/NERS521/blob/main/Lectures/9_NERS521_Point_Defects.pdf?raw=true)| |[PS#2](https://umich.instructure.com/courses/615157/assignments) | |
-| Tuesday |Oct. 3| 10 | [Defect Motion](https://github.com/nomelabs/NERS521/blob/main/Lectures/10_NERS521_Defect_Motion.pdf?raw=true)| | | | <!--- %%%%%kevin out of town for MS&T%%%%%% --->
-| Thursday |Oct. 5| 11 | [Point Defect Kinetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/11_NERS521_PDKinetics.pdf)| |<span style="color:red">PS2 due<span>  | |
-| Tuesday |Oct. 10| 12 |  Guest Lecture - Computational Modelling (Fei Gao) | | [PS#3](https://umich.instructure.com/courses/615157/assignments)  | |
-| Thursday |Oct. 12| 13 |  [Kinetics + RED](https://github.com/nomelabs/NERS521/blob/main/Lectures/12_NERS521_PDKinetics.pdf?raw=true) | | |[Derivation for $C_s+i$ regime](https://github.com/nomelabs/NERS521/blob/main/Pages/Sink-annihilation-dominated_derivation.pdf?raw=true) / [Example Problem](https://github.com/nomelabs/NERS521/blob/main/Pages/exampleproblem_NERS521.pdf?raw=true) |
+| Tuesday |Sept. 26| 9 | [Point Defects](https://github.com/nomelabs/NERS521/blob/main/Lectures/9_NERS521_Point_Defects.pdf?raw=true)| |[PS#2](https://umich.instructure.com/courses/615157/assignments) | |
+| Thursday |Sept. 28| 10 | [Defect Motion](https://github.com/nomelabs/NERS521/blob/main/Lectures/10_NERS521_Defect_Motion.pdf?raw=true)| | | | <!--- %%%%%kevin out of town for MS&T%%%%%% --->
+| Tuesday |Oct. 3| 11 | [Point Defect Kinetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/11_NERS521_PDKinetics.pdf)| |<span style="color:red">PS2 due<span>  | |
+| Thursday |Oct. 5| 12 |  Guest Lecture - Computational Modelling (Fei Gao) | | [PS#3](https://umich.instructure.com/courses/615157/assignments)  | |
+| Tuesday |Oct. 10| 13 |  [Kinetics + RED](https://github.com/nomelabs/NERS521/blob/main/Lectures/12_NERS521_PDKinetics.pdf?raw=true) | | |[Derivation for $C_s+i$ regime](https://github.com/nomelabs/NERS521/blob/main/Pages/Sink-annihilation-dominated_derivation.pdf?raw=true) / [Example Problem](https://github.com/nomelabs/NERS521/blob/main/Pages/exampleproblem_NERS521.pdf?raw=true) |
+| Thursday |Oct. 12| 14 |  [Defect Reactions](https://github.com/nomelabs/NERS521/blob/main/Lectures/15_NERS521_Reactions.pdf?raw=true)| | | |
 | Tuesday |Oct. 17| - | <span style="color:green">*No lecture - Fall Study Break*<span>| | | |
-| Thursday |Oct. 19| 14 |  [Midterm Review](https://github.com/nomelabs/NERS521/blob/main/Lectures/16_NERS521_MidTermReview.pdf) |  |<span style="color:red">PS#3 due <span>|[Study Guide](https://github.com/nomelabs/NERS521/blob/main/Resources/StudyGuide.pdf?raw=true) / [Solutions](https://github.com/nomelabs/NERS521/blob/main/Resources/StudyGuide_wsol.pdf?raw=true) |
-| Tuesday |Oct. 24| 15 |  Guest Lecture - Characterization (Valentin Pauly) | | | | <!--- %%%%%kevin out of town for ICFRM%%%%%% --->
+| Thursday |Oct. 19| 15 |  [Midterm Review](https://github.com/nomelabs/NERS521/blob/main/Lectures/16_NERS521_MidTermReview.pdf) |  |<span style="color:red">PS#3 due <span>|[Study Guide](https://github.com/nomelabs/NERS521/blob/main/Resources/StudyGuide.pdf?raw=true) / [Solutions](https://github.com/nomelabs/NERS521/blob/main/Resources/StudyGuide_wsol.pdf?raw=true) |
+| Tuesday |Oct. 24| 16 |  Guest Lecture - Characterization (Valentin Pauly) | | | | <!--- %%%%%kevin out of town for ICFRM%%%%%% --->
 | Thursday |Oct. 26| - |  <span style="color:red">**Midterm Exam**<span> | |Student Proctor |Room TBD  | <!--- %%%%%kevin out of town for ICFRM%%%%%% --->
-| Tuesday |Oct. 31| 16 |  [Defect Reactions](https://github.com/nomelabs/NERS521/blob/main/Lectures/15_NERS521_Reactions.pdf?raw=true)| | | |
-| Thursday |Nov. 2 | 17 |  [Defect Reactions II](https://github.com/nomelabs/NERS521/blob/main/Lectures/17_NERS521_Reactions.pdf?raw=true) | | | |
+| Tuesday |Oct. 31 | 17 |  [Defect Reactions II](https://github.com/nomelabs/NERS521/blob/main/Lectures/17_NERS521_Reactions.pdf?raw=true) | | | |
 
 #### Part III: Formation of Extended Defects
 *Objective:* Use the defect generation theory to explain the formation and mobility of 1D - 3D defects and chemical species
 
 |Day|Date|Lec. #|Topic|Lecture Notes|Assignments|Other resources/details|
 |---|---|---|---|---|---|---|
-| Tuesday | Nov. 7 | 18 | [Radiation Induced Segregation](https://github.com/nomelabs/NERS521/blob/main/Lectures/18_NERS521_Reactions3nRIS.pdf?raw=true) | | | |
-| Thursday |Nov. 9| 19 | [RIS and Defects](https://github.com/nomelabs/NERS521/blob/main/Lectures/19_NERS521_RISnDefects.pdf?raw=true) | | [PS#4](https://umich.instructure.com/courses/615157/assignments) | |
-| Tuesday |Nov. 14| 20 | [Defect Energetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/20_NERS521_ClusteringEnergetics.pdf?raw=true) | |
-| Thursday |Nov. 16| 21 |  [Voids Introduction](https://github.com/nomelabs/NERS521/blob/main/Lectures/21_NERS521_Voids_updated.pdf?raw=true) | | |  |
-| Tuesday |Nov. 21| 22 | [Voids Nucleation](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) | |<span style="color:red">PS#4 due</span>  | [Short chapter on defects](https://github.com/nomelabs/NERS521/blob/main/Pages/Loopschapter.pdf?raw=true)  |Have a great break!  |
+| Thursday | Nov. 2 | 18 | [Radiation Induced Segregation](https://github.com/nomelabs/NERS521/blob/main/Lectures/18_NERS521_Reactions3nRIS.pdf?raw=true) | | | |
+| Tuesday |Nov. 7| 19 | [RIS and Defects](https://github.com/nomelabs/NERS521/blob/main/Lectures/19_NERS521_RISnDefects.pdf?raw=true) | | [PS#4](https://umich.instructure.com/courses/615157/assignments) | |
+| Thursday |Nov. 9| 20 | [Defect Energetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/20_NERS521_ClusteringEnergetics.pdf?raw=true) | |
+| Tuesday |Nov. 14| 21 |  [Voids Introduction](https://github.com/nomelabs/NERS521/blob/main/Lectures/21_NERS521_Voids_updated.pdf?raw=true) | | |  |
+| Thursday |Nov. 16| 22 | [Voids Nucleation](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) | |<span style="color:red">PS#4 due</span>  | [Short chapter on defects](https://github.com/nomelabs/NERS521/blob/main/Pages/Loopschapter.pdf?raw=true)  |Have a great break!  |
+| Tuesday |Nov. 21| 23 | [Void Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) |  | [PS#5](https://umich.instructure.com/courses/615157/assignments) | |
 | Thursday |Nov. 23| -  |<span style="color:green">*No lecture - Thanksgiving Break*<span>| | | |
-| Tuesday |Nov. 28| 23 | [Void Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) |  | [PS#5](https://umich.instructure.com/courses/615157/assignments) | |
-| Thursday |Nov. 30| 24 | [Bubble Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/24_NERS521_Bubbles.pdf?raw=true) | | |[He Effects Review](https://github.com/nomelabs/NERS521/blob/main/Resources/VoidsNBubblesPaper.pdf?raw=true) |
-| Tuesday |Dec. 5| 25 | [Phase Stability](https://github.com/nomelabs/NERS521/blob/main/Lectures/25_NERS521_PhaseStability.pdf?raw=true) | |<span style="color:red">PS#5 due</span> |[Alt. Chap. on Phase Trans.](https://app-knovel-com.proxy.lib.umich.edu/web/view/khtml/show.v/rcid:kpLWRMVF08/cid:kt011ILB87/viewerType:khtml/root_slug:light-water-reactor-materials/url_slug:phase-transformations?&b-toc-cid=kpLWRMVF08&b-toc-root-slug=light-water-reactor-materials&b-toc-title=Light%20Water%20Reactor%20Materials%2C%20Volume%20I%20-%20Fundamentals&b-toc-url-slug=introduction&kpromoter=marc&view=collapsed&zoom=1&page=1) |
+| Tuesday |Nov. 28| 24 | [Bubble Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/24_NERS521_Bubbles.pdf?raw=true) | | |[He Effects Review](https://github.com/nomelabs/NERS521/blob/main/Resources/VoidsNBubblesPaper.pdf?raw=true) |
+| Thursday |Dec. 30| 25 | [Phase Stability](https://github.com/nomelabs/NERS521/blob/main/Lectures/25_NERS521_PhaseStability.pdf?raw=true) | |<span style="color:red">PS#5 due</span> |[Alt. Chap. on Phase Trans.](https://app-knovel-com.proxy.lib.umich.edu/web/view/khtml/show.v/rcid:kpLWRMVF08/cid:kt011ILB87/viewerType:khtml/root_slug:light-water-reactor-materials/url_slug:phase-transformations?&b-toc-cid=kpLWRMVF08&b-toc-root-slug=light-water-reactor-materials&b-toc-title=Light%20Water%20Reactor%20Materials%2C%20Volume%20I%20-%20Fundamentals&b-toc-url-slug=introduction&kpromoter=marc&view=collapsed&zoom=1&page=1) |
+| Tuesday |Dec. 5| 26 | [Final Review and Wrap Up](https://github.com/nomelabs/NERS521/blob/main/Lectures/26_NERS521_ClassReview.pdf?raw=True) | | | |
 |Wednesday|TBD| - |<span style="color:red">**Final Exam**<span>| | | |
 
 
