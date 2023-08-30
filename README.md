@@ -1,7 +1,7 @@
 # NERS521 Radiation Materials Science: I
 ## Fall 2023
 
-**Last updated Aug. 25, 2023**
+**Last updated Aug. 30, 2023**
 
 *Click [here](#Schedule) to jump to the course schedule*
 
@@ -42,7 +42,7 @@ The course is divided into three main components based on the general events ass
 
 |Day|Date|Lec. #|Topic|Lecture Notes|Assignments|Other resources/details|
 |---|---|---|---|---|---|---|
-| Tuesday |Aug. 29| 1 | [Introduction](https://github.com/nomelabs/NERS521/blob/main/Lectures/1_NERS521_Introduction.pdf?raw=true) | | | |
+| Tuesday |Aug. 29| 1 | [Introduction](https://github.com/nomelabs/NERS521/blob/main/Lectures/1_NERS521_Introduction.pdf?raw=true) |[Notes](https://umich.instructure.com/files/31595409/download?download_frd=1) / [Recording](https://leccap.engin.umich.edu/leccap/player/r/aruPVS) | | |
 | Thursday |Aug. 31| 2 | [Basic particle interactions](https://github.com/nomelabs/NERS521/blob/main/Lectures/2_NERS521_Neutron-nuclear_interactions.pdf?raw=true)| | |[Alt. basic particle derivation](https://github.com/nomelabs/NERS521/blob/main/Resources/alt_derv_T.pdf?raw=true)|
 | Tuesday |Sept. 5| 3 | [Collision Kinematics](https://github.com/nomelabs/NERS521/blob/main/Lectures/3_NERS521_Collision_Kinematics.pdf?raw=true)| | |[Collision Derivation](https://github.com/nomelabs/NERS521/blob/main/Resources/collision-kinematics.pdf?raw=true) |
 | Thursday |Sept. 7| 4 |  [Interatomic Potentials \& Cross Sections](https://github.com/nomelabs/NERS521/blob/main/Lectures/4_NERS521_Potentials_n_Cross_Sections.pdf?raw=true)| | [PS#1](https://umich.instructure.com/courses/615157/assignments) | [Flux/Fluence/Cross-sections/energy transfer quick review](https://github.com/nomelabs/NERS521/blob/main/Resources/Koutski1994_T_sigma_and_phi_review.pdf?raw=true) |
