@@ -45,7 +45,7 @@ The course is divided into three main components based on the general events ass
 | Tuesday |Aug. 27| 1 | [Introduction](https://github.com/nomelabs/NERS521/blob/main/Lectures/1_NERS521_Introduction.pdf?raw=true) | | | |
 | Thursday |Aug. 29| 2 | [Basic particle interactions](https://github.com/nomelabs/NERS521/blob/main/Lectures/2_NERS521_Neutron-nuclear_interactions.pdf?raw=true)|  | |[Alt. basic particle derivation](https://github.com/nomelabs/NERS521/blob/main/Resources/alt_derv_T.pdf?raw=true)|
 | Tuesday |Sept. 3| 3 | [Collision Kinematics](https://github.com/nomelabs/NERS521/blob/main/Lectures/3_NERS521_Collision_Kinematics.pdf?raw=true)|  | |[Collision Derivation](https://github.com/nomelabs/NERS521/blob/main/Resources/collision-kinematics.pdf?raw=true) |
-| Thursday |Sept. 5| 4 |  [Interatomic Potentials \& Cross Sections](https://github.com/nomelabs/NERS521/blob/main/Lectures/4_NERS521_Potentials_n_Cross_Sections.pdf?raw=true)|  | <!---[PS#1](https://umich.instructure.com/courses/634435/assignments/2071568)---> | [Flux/Fluence/Cross-sections/energy transfer quick review](https://github.com/nomelabs/NERS521/blob/main/Resources/Koutski1994_T_sigma_and_phi_review.pdf?raw=true) |
+| Thursday |Sept. 5| 4 |  [Interatomic Potentials \& Cross Sections](https://github.com/nomelabs/NERS521/blob/main/Lectures/4_NERS521_Potentials_n_Cross_Sections.pdf?raw=true)|  |  | [Flux/Fluence/Cross-sections/energy transfer quick review](https://github.com/nomelabs/NERS521/blob/main/Resources/Koutski1994_T_sigma_and_phi_review.pdf?raw=true) |
 | Tuesday |Sept. 10| 5 |  [Simple Disp. Theory](https://umich.instructure.com/files/31790254/download?download_frd=1) |   |[Example](https://github.com/nomelabs/NERS521/blob/main/Pages/Example%20from%205_NERS521_Displacement_Theory-1.pdf?raw=true) |[Displacement Integrals](https://rawcdn.githack.com/nomelabs/NERS521/59c626c1ab9fdd84f9e25ad37836b83e719b4e11/Pages/dpaintegrals.html) / [Cross section conversions](https://rawcdn.githack.com/nomelabs/NERS521/937cd554b1050d487d8f0fbfa08650f4a065943e/Pages/CrossSectionCheatSheet.html) |
 | Thursday |Sept. 12| 6 | [Energy loss \& K-P modifications](https://github.com/nomelabs/NERS521/blob/main/Lectures/6_NERS521_ModifyingKPandEnergyLossv2.pdf?raw=true) |  |  | | 
 | Tuesday |Sept. 17| 7 | [Focus, Channel, Range](https://github.com/nomelabs/NERS521/blob/main/Lectures/7_NERS521_Channel_Focus_Range.pdf?raw=true) | | <span style="color:red">PS1 due<span>| |
@@ -56,14 +56,14 @@ The course is divided into three main components based on the general events ass
 
 |Day|Date|Lec. #|Topic|Lecture Notes|Assignments|Other resources/details|
 |---|---|---|---|---|---|---|
-| Tuesday |Sept. 24| 9 | [Point Defects](https://github.com/nomelabs/NERS521/blob/main/Lectures/9_NERS521_Point_Defects.pdf?raw=true)| |<!---[PS#2](https://umich.instructure.com/courses/634435/assignments/2071569)---> | |
+| Tuesday |Sept. 24| 9 | [Point Defects](https://github.com/nomelabs/NERS521/blob/main/Lectures/9_NERS521_Point_Defects.pdf?raw=true)| | | |
 | Thursday |Sept. 26| 10 | [Defect Motion](https://github.com/nomelabs/NERS521/blob/main/Lectures/10_NERS521_Defect_Motion.pdf?raw=true)|  | | | <!
-| Tuesday |Oct. 1| 11 | [Point Defect Kinetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/11_NERS521_PDKinetics.pdf)  | | <span style="color:red">PS2 due</span> <!---/ [PS#3](https://umich.instructure.com/courses/634435/assignments)--->  | |
+| Tuesday |Oct. 1| 11 | [Point Defect Kinetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/11_NERS521_PDKinetics.pdf)  | | <span style="color:red">PS2 due</span>   | |
 | Thursday |Oct. 3| 12 | [Kinetics + RED](https://github.com/nomelabs/NERS521/blob/main/Lectures/12_NERS521_PDKinetics.pdf?raw=true) |  | |[Derivation for $C_s+i$ regime](https://github.com/nomelabs/NERS521/blob/main/Pages/Sink-annihilation-dominated_derivation.pdf?raw=true) / [Example Problem](https://github.com/nomelabs/NERS521/blob/main/Pages/exampleproblem_NERS521.pdf?raw=true) |
 | Tuesday |Oct. 8| 13 | [Defect Reactions](https://github.com/nomelabs/NERS521/blob/main/Lectures/15_NERS521_Reactions.pdf?raw=true)|  | | |
 | Thursday |Oct. 10| 14 | [Midterm Review](https://github.com/nomelabs/NERS521/blob/main/Lectures/16_NERS521_MidTermReview.pdf) | |<span style="color:red">PS#3 due <span>|[Study Guide](https://github.com/nomelabs/NERS521/blob/main/Resources/StudyGuide.pdf?raw=true)  |
-| Tuesday |Oct. 15| - | <span style="color:green">*No lecture - Fall Study Break*<span>| | | |<!--- %%%%%kevin out of town for NuMAT%%%%%% --->
-| Thursday |Oct. 17|   - |  <span style="color:red">**In class midterm**<span> | | |  | <!--- %%%%%kevin out of town for NuMAT%%%%%% --->
+| Tuesday |Oct. 15| - | <span style="color:green">*No lecture - Fall Study Break*<span>| | | |
+| Thursday |Oct. 17|   - |  <span style="color:red">**In class midterm**<span> | | |  | 
 | Tuesday |Oct. 22| 15 |  <span style="color:purple">Guest/Flex/Special Topics Lecture<span> | | | | 
 | Thursday |Oct. 24| 16 |  [Defect Reactions II](https://github.com/nomelabs/NERS521/blob/main/Lectures/17_NERS521_Reactions.pdf?raw=true) | | | |
 
@@ -79,9 +79,9 @@ The course is divided into three main components based on the general events ass
 | Thursday |Nov. 7| 20 | [Voids Introduction](https://github.com/nomelabs/NERS521/blob/main/Lectures/21_NERS521_Voids_updated.pdf?raw=true) | | |  |
 | Tuesday |Nov. 12| 21 |  [Voids Nucleation](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) | |  |   
 | Thursday |Nov. 14| 22 | [Void Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) |  | <span style="color:red">PS#4 due</span> | |
-| Tuesday |Nov. 19| 23 | [Bubble Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/24_NERS521_Bubbles.pdf?raw=true) | |<!---[PS#5](https://umich.instructure.com/courses/634435/assignments/2071572)---> |[He Effects Review](https://github.com/nomelabs/NERS521/blob/main/Resources/VoidsNBubblesPaper.pdf?raw=true) |
+| Tuesday |Nov. 19| 23 | [Bubble Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/24_NERS521_Bubbles.pdf?raw=true) | | |[He Effects Review](https://github.com/nomelabs/NERS521/blob/main/Resources/VoidsNBubblesPaper.pdf?raw=true) |
 | Thursday |Nov. 21| 24 | [Phase Stability](https://github.com/nomelabs/NERS521/blob/main/Lectures/25_NERS521_PhaseStability.pdf?raw=true) || |[Alt. Chap. on Phase Trans.](https://app-knovel-com.proxy.lib.umich.edu/web/view/khtml/show.v/rcid:kpLWRMVF08/cid:kt011ILB87/viewerType:khtml/root_slug:light-water-reactor-materials/url_slug:phase-transformations?&b-toc-cid=kpLWRMVF08&b-toc-root-slug=light-water-reactor-materials&b-toc-title=Light%20Water%20Reactor%20Materials%2C%20Volume%20I%20-%20Fundamentals&b-toc-url-slug=introduction&kpromoter=marc&view=collapsed&zoom=1&page=1) |
-| Tuesday |Nov. 26| 25 | <span style="color:purple">Guest/Flex/Special Topics Lecture<span> | |<!---[PS#5](https://umich.instructure.com/courses/634435/assignments/2071572)---> |[He Effects Review](https://github.com/nomelabs/NERS521/blob/main/Resources/VoidsNBubblesPaper.pdf?raw=true) |
+| Tuesday |Nov. 26| 25 | <span style="color:purple">Guest/Flex/Special Topics Lecture<span> | | |[He Effects Review](https://github.com/nomelabs/NERS521/blob/main/Resources/VoidsNBubblesPaper.pdf?raw=true) |
 | Thursday |Nov. 28| - | <span style="color:green">*No lecture - Thanksgiving Break*<span>| | | Have a great break!  |
 | Tuesday |Dec. 3| 26 | <span style="color:purple">Guest/Flex/Special Topics Lecture<span> | |  |
 | Thursday |Dec. 5| 27 | [Final Review and Wrap Up](https://github.com/nomelabs/NERS521/blob/main/Lectures/26_NERS521_ClassReview.pdf?raw=True) | |<span style="color:red">PS#5 due</span> | |
