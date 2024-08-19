@@ -12,7 +12,7 @@
 |Topic | Details |
 |---|---|
 |**Instructor**| Prof. Kevin G. Field <br> (he/him/his) <br />Associate Professor <br /> 3005 Michigan Memorial Phoenix Project (MMPL) <br /> [kgfield@umich.edu](mailto:kgfield@umich.edu) |
-|**Course Grader**|  2028 Michigan Memorial Phoenix Project (MMPL) <br> [renfrow@umich.edu](mailto:renfrow@umich.edu)|
+|**Course Grader**|  2028 Michigan Memorial Phoenix Project (MMPL) |
 |**Lecture Hours**|Tuesday: 10:30 am - 12:00 pm <br /> Thursday: 10:30 am - 12:00 pm|
 |**Lecture Location**|[Mortimer E. Cooley Building: Room 2918](https://maps.studentlife.umich.edu/building/mortimer-e-cooley-building)|
 |**Office Hours**|Easier by [appointment](https://calendly.com/kgfield/30min) <br /> 3005 Michigan Memorial Pheonix Project (PML) |
@@ -75,7 +75,7 @@ The course is divided into three main components based on the general events ass
 |---|---|---|---|---|---|---|
 | Tuesday |Oct. 29 | 17 |  [Radiation Induced Segregation](https://github.com/nomelabs/NERS521/blob/main/Lectures/18_NERS521_Reactions3nRIS.pdf?raw=true) | | | |
 | Thursday | Oct. 31 | 18 | [RIS and Defects](https://github.com/nomelabs/NERS521/blob/main/Lectures/19_NERS521_RISnDefects.pdf?raw=true) | | | [Short chapter on defects](https://github.com/nomelabs/NERS521/blob/main/Pages/Loopschapter.pdf?raw=true)|
-| Tuesday |Nov. 5| 19 | [Defect Energetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/20_NERS521_ClusteringEnergetics.pdf?raw=true) |  | <!---[PS#4](https://umich.instructure.com/courses/634435/assignments/2071571)---> | |
+| Tuesday |Nov. 5| 19 | [Defect Energetics](https://github.com/nomelabs/NERS521/blob/main/Lectures/20_NERS521_ClusteringEnergetics.pdf?raw=true) |  |  | |
 | Thursday |Nov. 7| 20 | [Voids Introduction](https://github.com/nomelabs/NERS521/blob/main/Lectures/21_NERS521_Voids_updated.pdf?raw=true) | | |  |
 | Tuesday |Nov. 12| 21 |  [Voids Nucleation](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) | |  |   
 | Thursday |Nov. 14| 22 | [Void Growth](https://github.com/nomelabs/NERS521/blob/main/Lectures/22_NERS521_Voids2.pdf?raw=true) |  | <span style="color:red">PS#4 due</span> | |
